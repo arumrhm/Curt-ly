@@ -8,6 +8,6 @@ Aplikasi Curt.ly merupakan aplikasi yang digunakan untuk mempersingkat link atau
 - Font (https://docs.expo.dev/versions/v46.0.0/sdk/font/) <br>
 - SplashScreen (https://www.npmjs.com/package/react-native-splash-screen)<br>
 <h2>Cara menginstall aplikasi (dalam mode pengembangan)</h2>
-Silahkan download aplikasi melalui link berikut ini : <br>
+Silahkan download aplikasi melalui link berikut ini : <br> https://github.com/arumrhm/Curt-ly/raw/main/Curt.ly.apk
 
 
