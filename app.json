@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Curt.ly",
+    "slug": "Curt-ly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/curt-ly.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/curt-ly.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.arum.curtly"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/curt-ly.png",
+        "backgroundColor": "#fff"
+      },
+      "package": "com.arum.curtly"
+    },
+    "web": {
+      "favicon": "./assets/curt-ly.png",
+      "backgroundColor": "#fff"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c05b6a9b-f5e8-45dc-a7ab-8e9a90c67f23"
+      }
+    },
+    "owner": "arumrhm"
+  }
+}
